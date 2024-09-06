@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HG100721_PIV.props" />
+</Project>
